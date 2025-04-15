@@ -3,6 +3,7 @@ import os, datetime
 dir_path = '/home/floris/Documents/OS3/Q3/data'
 file_names = ['dummy1.csv', 'dummy2.csv']
 
+
 # Main function
 def main():
     for file in file_names:
