@@ -53,7 +53,7 @@ def main():
                 print('\nError: no permission, or else')
                 return 30   
                 
-    print('Successful')
+    print('Execution successful')
     return 0
 
 
