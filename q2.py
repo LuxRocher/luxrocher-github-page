@@ -4,6 +4,7 @@ import os, pwd, grp
 from pwd import getpwnam
 from grp import getgrnam
 
+
 # Initialize variables
 # By default we have that permissions are set by:
 #   0 = none, 1 = x, 2 = w, 3 = wx, 4 = r, 5 = rx, 6 = rw and 7 = rwx
